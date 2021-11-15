@@ -12,6 +12,12 @@ class Parentclass {
 }
 
 class Childclass extends Parentclass {}
-
 const child1 = new Childclass("anak ke 1");
+
 console.log(child1);
+
+// =======================
+
+class Car {
+  wheel: number = 4;
+}

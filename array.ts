@@ -35,8 +35,15 @@ arrAny = {
 
 console.log(arrAny);
 
+// tupel
+let user: [string, number];
+user = ["hello world", 22230];
+console.log(user);
+
 // union
 let phone: string | number;
 
 phone = "088235886038";
-phone = 088235886038;
+phone = 688235886038;
+
+console.log(phone);
