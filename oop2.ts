@@ -70,4 +70,4 @@ const userone = new Epay(
   2000000
 );
 
-console.log(userone.TakingMoney());
+console.log(userone);
